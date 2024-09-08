@@ -45,4 +45,4 @@
 
 
 ## 🌿 My Portfolio
-![portfolio](https://img.shields.io/badge/My_Portfolio-5D8F33?style=for-the-badge&logo=notion&logoColor=white)
+[![portfolio](https://img.shields.io/badge/My_Portfolio-5D8F33?style=for-the-badge&logo=notion&logoColor=white&link=https://scratched-moonflower-632.notion.site/219ae04a032244b5a3e55badb0e736c2?pvs=4)](https://scratched-moonflower-632.notion.site/219ae04a032244b5a3e55badb0e736c2?pvs=4)

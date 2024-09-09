@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyebinchoi67&count_bg=%2383CF49&title_bg=%23196C0D&icon=leaflet.svg&icon_color=%23FFF5F5&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ## 👋 Hi there I'm Yebin
 
-**I'm interested in _Brain-Computer-Interface_ and _Medical AI_. 😎**
+**I'm interested in "Brain-Computer-Interface" and "Medical AI". 😎**
 
 
 

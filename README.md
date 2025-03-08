@@ -7,8 +7,11 @@
 
 
 ## 📚 Education
-**B.S | Sangmyung University, Seoul, South Korea (2021.03-Present)**
-- **Major:** Human centered Artificial intelligence 
+**Integrated M.S.-Ph.D. | Korea University, Seoul, South Korea (2025.03-Present)**
+- **Major:** Artificial Intelligence 
+
+**B.S. | Sangmyung University, Seoul, South Korea (2021.03-2025.02)**
+- **Major:** Human centered Artificial Intelligence 
 - **Double Major:** Biotechnology 
 - **Minor:** BioHealth Data Convergence
 

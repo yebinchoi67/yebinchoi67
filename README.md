@@ -1,6 +1,6 @@
 ---
 
-<img src="images/주르륵뇌.jpg" width="100%" height=100%/>
+<img src="images/질서뇌.png" width="100%" height=100%/>
 
 ---
 

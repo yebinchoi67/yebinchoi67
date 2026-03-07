@@ -22,15 +22,14 @@
 - **Minor:** BioHealth Data Convergence
 
   
-## 🌿 My Portfolio
-[![portfolio](https://img.shields.io/badge/My_Portfolio-5D8F33?style=for-the-badge&logo=notion&logoColor=white&link=https://scratched-moonflower-632.notion.site/219ae04a032244b5a3e55badb0e736c2?pvs=4)](https://scratched-moonflower-632.notion.site/219ae04a032244b5a3e55badb0e736c2?pvs=4)
+## 📄 Google Scholar
+[![portfolio](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white&link=https://scholar.google.co.kr/citations?user=4tTmzUwAAAAJ&hl=en)](https://scholar.google.co.kr/citations?user=4tTmzUwAAAAJ&hl=en)
 
 
 
 ## 📧 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yebinchoi67@gmail.com)](mailto:yebinchoi67@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:yebinchoi@naver.com)](mailto:yebinchoi@naver.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/3.__y.b__.3/)](https://www.instagram.com/3.__y.b__.3/)
+[![LinkedIN Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yebin-choi-51601b30a/)](https://www.linkedin.com/in/yebin-choi-51601b30a/)
 
 ## 💻Skills
 <!--
